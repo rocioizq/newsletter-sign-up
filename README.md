@@ -7,9 +7,9 @@
 Thanks for checking out this front-end coding challenge.
 
 ### Links
-Solution URL: 
+Solution URL: https://www.frontendmentor.io/solutions/responsive-newsletter-sign-up-o3pZsmeC-1
 
-Live Site URL: 
+Live Site URL: https://newsletter-sign-up-flax-nine.vercel.app/
 
 - [Frontend Mentor Page](https://www.frontendmentor.io/profile/rocioizq)
 - [GitHub Pages](https://github.com/rocioizq)
