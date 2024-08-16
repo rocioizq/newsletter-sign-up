@@ -145,6 +145,7 @@ input:hover, input:active {
     font-size: 0.9em;
     text-align: end;
     margin: 0;
+    position: absolute;
 }
 
 input.invalid {
