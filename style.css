@@ -205,7 +205,7 @@ input.invalid {
 
 @media only screen and (min-width: 1500px) {
     main {
-        width: 70%;
+        width: 50%;
     }
 
     .stay {
